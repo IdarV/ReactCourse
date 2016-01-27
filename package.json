@@ -1,0 +1,23 @@
+{
+  "name": "bulletin-board",
+  "version": "0.1.0",
+  "description": "A bulletin board developed in React.",
+  "main": "Note.jsx",
+  "scripts": {
+    "start": "open http://localhost:9001 & httpster -p 9001"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IdarV/ReactCourse.git"
+  },
+  "author": "IdarV",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IdarV/ReactCourse/issues"
+  },
+  "homepage": "https://github.com/IdarV/ReactCourse#readme",
+  "dependencies": {
+    "httpster": "^1.0.1",
+    "react-tools": "^0.13.3"
+  }
+}

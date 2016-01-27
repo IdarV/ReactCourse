@@ -136,7 +136,6 @@ var Board = React.createClass({
         );
     }
 });
-
-ReactDOM.render(<Board count={50}/>,
+ReactDOM.render(<Board count={10}/>,
     document.getElementById('react-container')
 );
